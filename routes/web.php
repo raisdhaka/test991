@@ -20,3 +20,4 @@ Route::get('/', function () {
 
 Route::get('/hello', [HomeController::class, 'index'])->name('hello');
 Route::get('/hey', [HomeController::class, 'hey'])->name('hey');
+Route::get('/carousel', [HomeController::class,'carousel'])->name('carousel');

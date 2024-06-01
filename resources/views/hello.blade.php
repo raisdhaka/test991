@@ -28,8 +28,8 @@
             <li class="list-group-item">An item</li>
             <li class="list-group-item">A second item</li>
             <li class="list-group-item">A third item</li>
-            <li>Test</li>
-            <li>Test</li>
+            <li class="list-group-item">Test</li>
+            <li class="list-group-item">Test</li>
         </ul>
         <div class="card-body">
             <a href="#" class="card-link">Card link</a>
